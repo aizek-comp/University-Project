@@ -1,0 +1,30 @@
+101;Apples;P;5;2025-02-10;201;Ahmad Hafiz;0132554687;1001;Paid
+102;Carrots;P;3;2025-03-12;202;Siti Aishah;0198765432;1002;Paid
+103;Lettuce;P;8;2025-01-25;203;Mohd Faisal;0172345678;1003;Paid
+104;Bananas;P;6;2025-04-05;204;Nur Amalina;0187654321;1004;Paid
+105;Tomatoes;P;4;2025-05-20;205;Zainal Abidin;0169988776;1005;Paid
+106;Frozen Nugget;G;2;2025-07-10;206;Siti Khadijah;0134433221;1006;Paid
+107;Frozen Fries;G;7;2025-06-30;207;Ahmad Zulkifli;0146677889;1007;Paid
+108;Ice Cream;G;5;2025-09-15;208;Nurul Izzah;0125566778;1008;Paid
+109;Frozen Pizza;G;3;2025-08-08;209;Adam Hakimi;0113344556;1009;Paid
+110;Frozen Burgers;G;9;2025-11-25;210;Aisyah Hanani;0199988775;1010;Paid
+111;Milk;D;4;2025-10-18;211;Luqman Hakim;0185566774;1011;Paid
+112;Cheese;D;6;2025-12-05;212;Farah Amira;0172233445;1012;Paid
+113;Butter;D;3;2025-07-19;213;Hafizuddin Kamal;0153344556;1013;Paid
+114;Yogurt;D;5;2025-03-27;214;Rina Zahira;0147766554;1014;Paid
+115;Cream;D;2;2025-06-14;215;Shafiq Azlan;0138899001;1015;Paid
+116;Potato Chips;S;7;2025-02-28;216;Idris Fadzil;0127788990;1016;Paid
+117;Chocolate Bars;S;4;2025-09-09;217;Alya Nadira;0116655443;1017;Paid
+118;Cookies;S;10;2025-08-21;218;Hakim Azmi;0192233445;1018;Paid
+119;Popcorn;S;8;2025-05-12;219;Amirah Nadhirah;0188877665;1019;Pending
+120;Gummy Bears;S;5;2025-04-04;220;Ehsan Zain;0175544332;1020;Pending
+121;Apples;P;6;2025-03-11;221;Nashrul Hakimi;0123344556;1021;Pending
+122;Bananas;P;7;2025-06-10;222;Aina Sofiya;0198766543;1022;Pending
+123;Carrots;P;9;2025-04-15;223;Zulhilmi Fahmi;0172233441;1023;Pending
+124;Frozen Fries;G;6;2025-10-30;224;Siti Wardah;0146654432;1024;Pending
+125;Frozen Pizza;G;4;2025-11-05;225;Hafizuddin Azmi;0119988771;1025;Pending
+126;Frozen Nugget;G;8;2025-09-10;226;Amin Zulkarnain;0137788991;1026;Pending
+127;Milk;D;10;2025-12-22;227;Farah Natasha;0127788992;1027;Pending
+128;Yogurt;D;5;2025-03-15;228;Amirul Syazwan;0175544333;1028;Pending
+129;Cookies;S;6;2025-02-25;229;Nur Alia;0193344556;1029;Pending
+130;Popcorn;S;4;2025-07-17;230;Hakimi Fahmi;0145566778;1030;Pending
